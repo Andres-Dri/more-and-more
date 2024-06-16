@@ -1,12 +1,10 @@
 MARKETING AGENCY MORE AND MORE ❤️
 
-------------------------------------------------------------
-
 Welcome to the official website of Marketing Agency More and More. This one-page site is designed to provide a comprehensive overview of our services, highlighting what sets us apart in the competitive world of marketing. Our goal is to showcase our expertise and commitment to delivering outstanding marketing solutions.
 
-WHAT I LEARNED 🎓
-
 ------------------------------------------------------------
+
+WHAT I LEARNED 🎓
 
 Creating this website was a journey of discovery and skill development. Here are some of the key lessons I learned during this project:
 
