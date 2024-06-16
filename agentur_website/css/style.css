@@ -315,6 +315,10 @@ Headerbereich. */
   text-transform: uppercase;
 }
 
+.date {
+  font-weight: bold;
+}
+
 .kurzmeldungen-content {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
